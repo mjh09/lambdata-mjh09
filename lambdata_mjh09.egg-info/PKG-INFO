@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: lambdata-mjh09
+Version: 0.0.1
+Summary: A small example package
+Home-page: https://github.com/mjh09/lambdata-mjh09
+Author: Example Author
+Author-email: matthewharshman66@gmail.com
+License: UNKNOWN
+Description: # lambdata-mjh09
+        lambpackets
+        read-me
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown

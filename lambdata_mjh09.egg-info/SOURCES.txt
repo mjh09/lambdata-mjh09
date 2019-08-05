@@ -1,0 +1,8 @@
+README.md
+setup.py
+lambdata_mjh09/__init__.py
+lambdata_mjh09/lambdata.py
+lambdata_mjh09.egg-info/PKG-INFO
+lambdata_mjh09.egg-info/SOURCES.txt
+lambdata_mjh09.egg-info/dependency_links.txt
+lambdata_mjh09.egg-info/top_level.txt
