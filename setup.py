@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="lambdata-mjh09",
-    version="0.0.1",
+    version="0.0.2",
     author="Matthew Harshman",
     author_email="matthewharshman66@gmail.com",
     description="A small example package",
