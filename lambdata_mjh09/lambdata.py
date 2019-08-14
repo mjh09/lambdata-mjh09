@@ -1,7 +1,10 @@
+# Checks DataFrame for null values
 def null(dataFrame):
     from pandas import isna
     return dataFrame.isna().sum()
 
+
+# Splits date for a column 
 def split_date(dataFrame, column):
     import pandas
     from pandas import to_datetime
